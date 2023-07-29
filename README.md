@@ -1,3 +1,3 @@
 ### Summary
 
-Clone repo of amazon (checkout)[./amazon-clone.html]
+Clone repo of amazon [checkout](./amazon-clone.html)
